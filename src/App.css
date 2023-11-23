@@ -4,10 +4,15 @@
 }
 
 .colour-border{
+<<<<<<< HEAD
   border: 3px solid rgb(181, 22, 230);
+=======
+  border: 3px solid orange;
+>>>>>>> bf9073d63d1fcfd2ee71beac45519e085a63523e
   padding: 10px;
 }
 
 .header{
   padding: 10px;
 }
+
